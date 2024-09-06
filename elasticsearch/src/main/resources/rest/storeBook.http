@@ -1,0 +1,12 @@
+###
+POST http://localhost:8080/book
+Content-Type: application/json
+
+{
+  "id": 1,
+  "name": "홍길동전",
+  "summary": "빨간 길 위에 동전",
+  "price": 20000
+}
+
+###
